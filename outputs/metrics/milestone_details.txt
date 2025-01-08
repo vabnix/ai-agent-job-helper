@@ -1,0 +1,11 @@
+
+Milestone Details: 
+              milestone_name                              tasks
+0       UI Design Completion       [User Interface (UI) Design]
+1  Front-end Code Completion            [Front-end Development]
+2    Back-end Services Ready             [Back-end Development]
+3    Database Implementation             [Database Integration]
+4         Testing Completion    [Testing and Quality Assurance]
+5                 Deployment                       [Deployment]
+6   User Documentation Ready  [User Training and Documentation]
+7     Maintenance Initiation          [Maintenance and Support]

@@ -1,0 +1,11 @@
+
+Task Details: 
+                         task_name  estimated_time_hours            required_resources
+0       User Interface (UI) Design                  80.0              [UI/UX Designer]
+1            Front-end Development                 120.0         [Front-end Developer]
+2             Back-end Development                 160.0          [Back-end Developer]
+3             Database Integration                  80.0      [Database Administrator]
+4    Testing and Quality Assurance                  80.0                 [QA Engineer]
+5                       Deployment                  40.0             [DevOps Engineer]
+6  User Training and Documentation                  40.0            [Technical Writer]
+7          Maintenance and Support                  10.0  [Project Manager, Developer]

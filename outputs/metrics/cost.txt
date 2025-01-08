@@ -1,0 +1,9 @@
+
+Usage Metrics: 
+   total_tokens  prompt_tokens  cached_prompt_tokens  completion_tokens  successful_requests
+0          5841           3076                     0               2765                    3
+2025-01-08 13:46:30 Total costs: $0.0009
+2025-01-08 13:46:30 Total costs: $0.0009
+Usage Metrics: 
+   total_tokens  prompt_tokens  cached_prompt_tokens  completion_tokens  successful_requests
+0          6127           3185                     0               2942                    3
